@@ -93,6 +93,7 @@
 
   footer {
     text-align: center;
+    width: 100%;
   }
   
   footer p {
@@ -103,15 +104,19 @@
   
   footer ul {
     padding-inline-start: 0px;
+    padding: 0.5rem 0rem;
+    margin: 0;
   }
   
   a,
   img,
   li {
     display: inline;
+    padding: 0rem 0.4rem;
   }
   
   img {
-    width: 40px;
+    width: 45px;
+    height: 45px;
     padding: 0.2rem;  
   }
