@@ -50,6 +50,7 @@
     border: transparent;
     font-size: large;
     margin: 1rem 0rem;
+    box-sizing: border-box;
   }
   
   
